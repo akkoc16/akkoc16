@@ -17,7 +17,7 @@
 ### Hi there I'm Enver 👋 
 
 
-I am a Computer Engineering student at ITU. I am interested in, write about and develop (open source) software solutions for and with Python and React Native.
+I am a Computer Engineering senior student at ITU. I am interested in, write about and develop (open source) software solutions for and with Python and React Native.
 Since beginning my journey as a developer or computer engineer nearly 6 years ago, I worked as a freelancer,part-time network and system engineer,volunteer and translator with many talented people who are experts in their work. 
 I'm quietly confident, naturally curious, and perpetually working on improving my career.
 
