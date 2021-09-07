@@ -17,14 +17,12 @@
 ### Hi there I'm Enver 👋 
 
 
-I am a Computer Engineering senior student at ITU. I am interested in, write about and develop (open source) software solutions for and with Python and React Native.
-Since beginning my journey as a developer or computer engineer nearly 6 years ago, I worked as a freelancer,part-time network and system engineer,volunteer and translator with many talented people who are experts in their work. 
-I'm quietly confident, naturally curious, and perpetually working on improving my career.
+I am a passionate DevOps engineer with 2 years of experience in microservice architecture. Created a knowledge of DevOps concepts, Agile methodologies, CI/CD pipeline, managing projects and system automation. I am always eager to learn new technologies, languages and frameworks.
 
 You can see what I am currently up to on [enverakkoc.com](https://www.enverakkoc.com/)
 
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on React Native projects.
+- 🌱 I’m currently learning Go.
+- 👯 I’m looking to collaborate on DevOps projects.
 - 💬 Ask me about Python.
 
 
