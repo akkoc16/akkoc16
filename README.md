@@ -28,6 +28,11 @@ You can see what I am currently up to on [enverakkoc.com](https://www.enverakkoc
 
 ### 📕 Latest Blog Posts:
 
+- [Secure Software Development-SQL Injection](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473)
+- [Secure Software Development-Trust No Input](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39)
+- [Secure Software Development-Code Injection](https://medium.com/@m.enver.akkoc/secure-software-development-code-injection-ae94496fd559)
+- [Secure Software Development-Business Logic Flaws](https://medium.com/@m.enver.akkoc/secure-software-development-business-logic-flaws-2305bdd3344b)
+- [Secure Software Development-Auth.](https://medium.com/@m.enver.akkoc/secure-software-development-authentication-62452d26405b)
 - [React Native and Firebase Auth.](https://medium.com/@m.enver.akkoc/react-native-and-firebase-authentication-b9c4b40b5409)
 
 <br />
