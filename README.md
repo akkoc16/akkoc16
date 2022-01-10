@@ -55,11 +55,5 @@ You can see what I am currently up to on [enverakkoc.com](https://www.enverakkoc
 
 <br />
 
-### Languages and Stats:
-
-![Enver's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akkoc16&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
-![Enver's Github stats](https://github-readme-stats.vercel.app/api?username=akkoc16&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-
 
 
