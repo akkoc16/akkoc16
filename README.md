@@ -1,5 +1,33 @@
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+<br />
 
-![Hello 👋🏻](https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif)
+### Hi there I'm Enver 👋 
 
 <a href="https://www.linkedin.com/in/mehmetenverakkoc/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://https://www.linkedin.com/in/mehmetenverakkoc/">
@@ -10,11 +38,6 @@
 <a href="mailto:m.enver.akkoc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="m.enver.akkoc@gmail.com">
 </a>
-
-
-<br />
-
-### Hi there I'm Enver 👋 
 
 
 I am a passionate DevOps engineer with 2 years of experience in microservice architecture. Created a knowledge of DevOps concepts, Agile methodologies, CI/CD pipeline, managing projects and system automation. I am always eager to learn new technologies, languages and frameworks.
