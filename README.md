@@ -43,7 +43,7 @@
 
 I am a passionate DevOps engineer with 2 years of experience in microservice architecture. Created a knowledge of DevOps concepts, Agile methodologies, CI/CD pipeline, managing projects and system automation. I am always eager to learn new technologies, languages and frameworks.
 
-You can see what I am currently up to on [https://enverakkoc.netlify.app](https://akkoc16.github.io/EnverAkkoc/)
+You can see what I am currently up to on [https://enverakkoc.netlify.app](https://enverakkoc.netlify.app)
 
 - 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on DevOps projects.
