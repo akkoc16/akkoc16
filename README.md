@@ -22,6 +22,9 @@
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</a>
 
 <br />
 
