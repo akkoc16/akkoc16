@@ -30,6 +30,9 @@
 
 ### Hi there I'm Enver 👋 
 
+
+💻Check my website: [**enverakkoc.netlify.app**](https://enverakkoc.netlify.app)
+
 <a href="https://www.linkedin.com/in/mehmetenverakkoc/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://https://www.linkedin.com/in/mehmetenverakkoc/">
 </a>
@@ -43,9 +46,6 @@
 
 I am a passionate DevOps engineer with 2 years of experience in microservice architecture. Created a knowledge of DevOps concepts, Agile methodologies, CI/CD pipeline, managing projects and system automation. I am always eager to learn new technologies, languages and frameworks.
 
-You can see what I am currently up to on [https://enverakkoc.netlify.app](https://enverakkoc.netlify.app)
-
-
 ### 📕 Latest Blog Posts:
 
 - [Secure Software Development-SQL Injection](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473)
@@ -56,6 +56,15 @@ You can see what I am currently up to on [https://enverakkoc.netlify.app](https:
 - [React Native and Firebase Auth.](https://medium.com/@m.enver.akkoc/react-native-and-firebase-authentication-b9c4b40b5409)
 
 <br />
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/menverakkoc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="menverakkoc" /></a></p><br><br>
+
+![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
+<br/>
+
+
+![](https://komarev.com/ghpvc/?username=akkoc16&color=orange)
 
 
 
