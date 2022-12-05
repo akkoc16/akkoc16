@@ -44,7 +44,7 @@
 </a>
 
 
-I am a passionate DevOps engineer with 2 years of experience in microservice architecture. Created a knowledge of DevOps concepts, Agile methodologies, CI/CD pipeline, managing projects and system automation. I am always eager to learn new technologies, languages and frameworks.
+I'm a DevOps Engineer with 3 years of experience. I specialize in streamlining software development and deployment processes, and have a strong background in Linux systems administration and automation. I'm passionate about using technology to solve complex problems, and I'm always looking for ways to improve the reliability, scalability, and security of the systems I work on. I'm excited to be a part of the GitHub community and to learn from others in the field. Thanks for stopping by my profile!
 
 ### 📕 Latest Blog Posts:
 
