@@ -48,7 +48,7 @@ I'm a DevOps Engineer with 3 years of experience. I specialize in streamlining s
 
 ### 📕 Latest Blog Posts:
 
-- [Kubernetes Up & Running](https://enverakkoc.netlify.app/kubernetes-up&running/)
+- [Kubernetes Up & Running](https://medium.com/@m.enver.akkoc/book-notes-kubernetes-up-running-chapter-1-8ae7fbd46d80)
 - [Secure Software Development-SQL Injection](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473)
 - [Secure Software Development-Trust No Input](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39)
 - [Secure Software Development-Code Injection](https://medium.com/@m.enver.akkoc/secure-software-development-code-injection-ae94496fd559)
