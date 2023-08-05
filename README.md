@@ -11,20 +11,45 @@
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </a>
 <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+</a>
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
 </a>
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9">
 </a>
 <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </a>
 <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white">
 </a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
+</a>
+
 
 <br />
 
@@ -60,12 +85,11 @@ I'm a DevOps Engineer with 3 years of experience. I specialize in streamlining s
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/menverakkoc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="menverakkoc" /></a></p><br><br>
-
-![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
 <br/>
 
 
 ![](https://komarev.com/ghpvc/?username=akkoc16&color=orange)
 
+![](https://github-profile-trophy.vercel.app/?username=akkoc16&theme=gruvbox)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkoc16&theme=dark)
