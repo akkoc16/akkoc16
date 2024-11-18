@@ -69,10 +69,11 @@
 </a>
 
 
-I'm a DevOps Engineer with 3 years of experience. I specialize in streamlining software development and deployment processes, and have a strong background in Linux systems administration and automation. I'm passionate about using technology to solve complex problems, and I'm always looking for ways to improve the reliability, scalability, and security of the systems I work on. I'm excited to be a part of the GitHub community and to learn from others in the field. Thanks for stopping by my profile!
+I'm a DevOps Engineer with 6 years of experience. I specialize in streamlining software development and deployment processes, and have a strong background in Linux systems administration and automation. I'm passionate about using technology to solve complex problems, and I'm always looking for ways to improve the reliability, scalability, and security of the systems I work on. I'm excited to be a part of the GitHub community and to learn from others in the field. Thanks for stopping by my profile!
 
 ### 📕 Latest Blog Posts:
 
+- [Kubernetes Event Monitoring with Kubewatch](https://medium.com/tom-tech/kubernetes-event-monitoring-with-kubewatch-1736cdfa660c)
 - [Kubernetes Up & Running](https://medium.com/@m.enver.akkoc/book-notes-kubernetes-up-running-chapter-1-8ae7fbd46d80)
 - [Secure Software Development-SQL Injection](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473)
 - [Secure Software Development-Trust No Input](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39)
