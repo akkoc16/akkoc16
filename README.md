@@ -32,6 +32,12 @@ Here are some projects that highlight my skills and interests:
 - 🛠️ **Infrastructure automation using Ansible**
 - 🔍 **Logging and Observability with Elasticsearch and Kibana**
 
+## 📝 Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### 📕 Latest Blog Posts:
 
 - [Kubernetes Event Monitoring with Kubewatch](https://medium.com/tom-tech/kubernetes-event-monitoring-with-kubewatch-1736cdfa660c)
