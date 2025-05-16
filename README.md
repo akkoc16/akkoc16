@@ -1,75 +1,36 @@
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
-</a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
-</a>
-
-
-<br />
-
 ### Hi there I'm Enver 👋 
 
+I'm a **DevOps Engineer** with over 7 years of experience building, automating, and managing infrastructure and CI/CD pipelines. I'm passionate about scalable, secure, and observable systems. I enjoy working with Linux, containers, and cloud-native technologies.
 
-💻Check my website: [**enverakkoc.netlify.app**](https://enverakkoc.netlify.app)
+---
 
-<a href="https://www.linkedin.com/in/mehmetenverakkoc/" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://https://www.linkedin.com/in/mehmetenverakkoc/">
-</a>
-<a href="https://medium.com/@m.enver.akkoc" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@m.enver.akkoc">
-</a>
-<a href="mailto:m.enver.akkoc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="m.enver.akkoc@gmail.com">
-</a>
+## 🚀 Tech Stack & Tools
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-I'm a DevOps Engineer with 6 years of experience. I specialize in streamlining software development and deployment processes, and have a strong background in Linux systems administration and automation. I'm passionate about using technology to solve complex problems, and I'm always looking for ways to improve the reliability, scalability, and security of the systems I work on. I'm excited to be a part of the GitHub community and to learn from others in the field. Thanks for stopping by my profile!
+---
+
+## 📌 Featured Skills
+
+Here are some projects that highlight my skills and interests:
+
+- 🔧 **CI/CD Pipelines with Jenkins and GitHub Actions**
+- ☸️ **Kubernetes Monitoring and Alerting Stack (Prometheus + Grafana + Alertmanager)**
+- ☸️ **Advanced Kubernetes Operations: multi-cluster management, custom controllers, Helm, Ingress, network policies, and GitOps workflows**
+- 📦 **Dockerized Microservices**
+- 🛠️ **Infrastructure automation using Ansible**
+- 🔍 **Logging and Observability with Elasticsearch and Kibana**
 
 ### 📕 Latest Blog Posts:
 
@@ -82,12 +43,20 @@ I'm a DevOps Engineer with 6 years of experience. I specialize in streamlining s
 - [Secure Software Development-Auth.](https://medium.com/@m.enver.akkoc/secure-software-development-authentication-62452d26405b)
 - [React Native and Firebase Auth.](https://medium.com/@m.enver.akkoc/react-native-and-firebase-authentication-b9c4b40b5409)
 
-<br />
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetenverakkoc/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://enverakkoc.netlify.app)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/menverakkoc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="menverakkoc" /></a></p><br><br>
 <br/>
 
+---
+## 📊 GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=akkoc16&color=orange)
 
