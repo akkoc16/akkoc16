@@ -35,6 +35,11 @@ Here are some projects that highlight my skills and interests:
 ## 📝 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Elastic Stack in Action](https://medium.com/tom-tech/elastic-stack-in-action-4f850ae97195?source=rss-8a3e2a43a575------2)
+- [Kubernetes Event Monitoring with Kubewatch](https://medium.com/tom-tech/kubernetes-event-monitoring-with-kubewatch-1736cdfa660c?source=rss-8a3e2a43a575------2)
+- [Book Notes: Kubernetes Up&amp;Running](https://medium.com/@m.enver.akkoc/book-notes-kubernetes-up-running-chapter-1-8ae7fbd46d80?source=rss-8a3e2a43a575------2)
+- [Secure Software Development- SQL Injections-](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473?source=rss-8a3e2a43a575------2)
+- [Secure Software Development- Trust No Input-](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39?source=rss-8a3e2a43a575------2)
 <!-- BLOG-POST-LIST:END -->
 
 
