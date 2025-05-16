@@ -42,20 +42,6 @@ Here are some projects that highlight my skills and interests:
 - [Secure Software Development- Trust No Input-](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39?source=rss-8a3e2a43a575------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-### 📕 Latest Blog Posts:
-
-- [Kubernetes Event Monitoring with Kubewatch](https://medium.com/tom-tech/kubernetes-event-monitoring-with-kubewatch-1736cdfa660c)
-- [Kubernetes Up & Running](https://medium.com/@m.enver.akkoc/book-notes-kubernetes-up-running-chapter-1-8ae7fbd46d80)
-- [Secure Software Development-SQL Injection](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473)
-- [Secure Software Development-Trust No Input](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39)
-- [Secure Software Development-Code Injection](https://medium.com/@m.enver.akkoc/secure-software-development-code-injection-ae94496fd559)
-- [Secure Software Development-Business Logic Flaws](https://medium.com/@m.enver.akkoc/secure-software-development-business-logic-flaws-2305bdd3344b)
-- [Secure Software Development-Auth.](https://medium.com/@m.enver.akkoc/secure-software-development-authentication-62452d26405b)
-- [React Native and Firebase Auth.](https://medium.com/@m.enver.akkoc/react-native-and-firebase-authentication-b9c4b40b5409)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetenverakkoc/)
