@@ -54,19 +54,3 @@ I am a **Senior DevOps Engineer** with over 7 years of experience designing, aut
 - [Secure Software Development- Trust No Input-](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39?source=rss-8a3e2a43a575------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkoc16&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkoc16&layout=compact&theme=nord" alt="Top Languages" height="180" />
-</p>
-
----
-
-### ☕ Support
-If you find my work or articles helpful, feel free to support me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/menverakkoc)
-
