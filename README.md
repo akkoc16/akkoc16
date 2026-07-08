@@ -2,8 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehmetenverakkoc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://enverakkoc.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
-  <a href="https://medium.com/@m.enver.akkoc"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://akkoc16.github.io"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website" /></a>
   <img src="https://komarev.com/ghpvc/?username=akkoc16&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -42,15 +41,5 @@ I am a **Senior DevOps Engineer** with over 7 years of experience designing, aut
 * 🔍 **Observability & Monitoring:** Creating comprehensive telemetry layers (metrics, logs, traces) using Prometheus, Grafana, Alertmanager, and the Elastic Stack.
 * 📦 **Infrastructure Automation:** Automating provisioning, configuration, and compliance across complex environments using Ansible.
 
----
 
-### 📝 Latest Articles on Medium
-
-<!-- BLOG-POST-LIST:START -->
-- [Elastic Stack in Action](https://medium.com/tom-tech/elastic-stack-in-action-4f850ae97195?source=rss-8a3e2a43a575------2)
-- [Kubernetes Event Monitoring with Kubewatch](https://medium.com/tom-tech/kubernetes-event-monitoring-with-kubewatch-1736cdfa660c?source=rss-8a3e2a43a575------2)
-- [Book Notes: Kubernetes Up&amp;Running](https://medium.com/@m.enver.akkoc/book-notes-kubernetes-up-running-chapter-1-8ae7fbd46d80?source=rss-8a3e2a43a575------2)
-- [Secure Software Development- SQL Injections-](https://medium.com/@m.enver.akkoc/secure-software-development-sql-injections-880fbcaf1473?source=rss-8a3e2a43a575------2)
-- [Secure Software Development- Trust No Input-](https://medium.com/@m.enver.akkoc/secure-software-development-trust-no-input-90eb6c5e7c39?source=rss-8a3e2a43a575------2)
-<!-- BLOG-POST-LIST:END -->
 
